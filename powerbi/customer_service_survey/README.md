@@ -46,7 +46,7 @@ CS Associates needed to move beyond broad demographic trends to uncover **specif
 - **Business storytelling:** Translating statistical findings into actionable strategies
 
 ## How to View
-1. Download `customer-service-survey.pbix`
+1. Download `Customer Service Survey.pbix`
 2. Open with **Power BI Desktop** (free download from Microsoft)
 3. Interact with slicers to filter by age, gender, employment, or location
 
