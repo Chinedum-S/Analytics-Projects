@@ -19,7 +19,7 @@ Currently seeking **Analyst** roles where I can apply statistical modeling, data
 ## Projects
 
 ### Power BI
-- **[Customer Service Survey Analysis](powerbi/customer-service-survey/)**  
+- **[Customer Service Survey Analysis](powerbi/customer_service_survey/)**  
   Banking industry churn analysis identifying top retention drivers (poor service, transaction delays, security concerns). Built interactive dashboard with demographic segmentation and statistical modeling (regression, correlation).  
   *Tools: Power BI, Excel, DAX*
 
