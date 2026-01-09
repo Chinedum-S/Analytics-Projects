@@ -51,7 +51,7 @@ CS Associates needed to move beyond broad demographic trends to uncover **specif
 3. Interact with slicers to filter by age, gender, employment, or location
 
 ## Project Context
-Group project completed as part of [Your Program/Course Name]. Collaborated on data cleaning, statistical analysis, and visualization design. Presented findings to stakeholders with actionable retention strategies.
+Group project completed as part of Masters in Management (Data Analytics)/ GBUS-7225-050 (Descriptive Analytics). Collaborated on data cleaning, statistical analysis, and visualization design. Presented findings to stakeholders with actionable retention strategies.
 
 ---
 
